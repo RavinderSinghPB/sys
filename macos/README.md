@@ -4,7 +4,7 @@ Tracking system-level modifications for this machine.
 
 ## Machine
 - **Model**: Mac Mini M4
-- **OS**: macOS (Darwin 25.3.0)
+- **OS**: macOS 26.3.1
 
 ## Peripherals
 - **Keyboard**: Logitech K480 (Bluetooth)
